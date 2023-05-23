@@ -21,7 +21,7 @@ function Navbar(){
     return(
         <nav id="navbar">
           <h2>
-            <Link to="/"><BiCameraMovie /> MoviesLib</Link>
+            <Link to="/movies-api-react-deploy/"><BiCameraMovie /> MoviesLib</Link>
           </h2>
           <form onSubmit={handleSubmit}>
             <input type="text" placeholder="Busque um filme"

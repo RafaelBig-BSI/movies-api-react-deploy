@@ -1,6 +1,9 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
 Aplicação que consiste em disponibilizar filmes para o usuário bem como permitir o acesso por meio de buscas pelo título do filme e ser possível ver os detalhes de cada um. Projeto de filmes que utiliza React consumindo a API do TMDB (The Movie Database).
 
+# <img height="40" src="https://github.com/RafaelBig-BSI/todolist-react-deploy/assets/84249945/347ee6f3-b77d-4256-935a-be6469d31924"/> Deploy
+* Para deploy utilizei Github Pages: https://rafaelbig-bsi.github.io/movies-api-react-deploy/
+
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> API Key
 * Crie uma conta ou faça login no site do TMDB (The Movie Database) https://www.themoviedb.org/ e gere uma chave API em Seu Perfil -> Configurações -> API.
 * Crie o arquivo ``.env`` na raiz do projeto e coloque a sua api key onde está sublinhado conforme a imagem:
